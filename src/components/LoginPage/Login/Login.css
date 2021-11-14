@@ -1,0 +1,42 @@
+.login{
+    padding-top: 70px;
+    padding-bottom: 0%;
+}
+.input{
+    text-align: center;
+    border: 1px solid gray;
+   margin-bottom: 10px;
+   width: 400px;
+   border-radius: 5px;
+   justify-content: center;
+   align-items: center;
+   margin: auto;
+   background-color: #F7F6F6;
+  
+}
+.button1{
+    margin-bottom: 16px;
+    background-color: #51AC74;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    width: 90px;
+}
+.button2{
+    margin-bottom: 16px;
+    background-color: #5C8AE6;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    border-radius: 5px;
+    width: 90px;
+
+}
+.input input{
+    border-radius: 3px;
+    width: 200px;
+    height: 40px;
+}
+.input-container{
+    width: 500px;
+    margin: auto;
+}

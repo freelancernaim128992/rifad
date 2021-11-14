@@ -1,0 +1,11 @@
+.img-container{
+    width: 100%;
+    height: 250px;
+    padding: 20px;
+}
+.img-container img{
+    border-radius: 10px;
+}
+.card-style{
+    height: 550px;
+}

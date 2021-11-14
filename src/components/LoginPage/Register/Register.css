@@ -1,0 +1,32 @@
+.header{
+    text-align: center;
+}
+.main{
+    width: 500px;
+    margin: auto;
+    margin-top: 80px;
+}
+.input{
+    margin-left: 15px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+.button{
+    
+    background-color: #3686BD;
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+.btnMain{
+    text-align: center;
+
+}
+.main input{
+    width: 200px;
+}
+.login-link{
+    text-decoration: none;
+    color: orange;
+}
